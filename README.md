@@ -38,6 +38,7 @@ currently_building:
 interests:
   - Machine Learning & Deep Learning
   - Natural Language Processing
+  - Full Stack Production Ready Software Development
   - Computer Vision (Medical Imaging)
   - System Design & Microservices
 ```
