@@ -10,15 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Nipunchugh10&style=for-the-badge&color=00e5ff&labelColor=0a0a0f&label=PROFILE+VIEWS" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/Nipunchugh10?tab=followers">
-  <img src="https://img.shields.io/github/followers/Nipunchugh10?style=for-the-badge&color=8338ec&labelColor=0a0a0f&label=Followers" alt="Followers" />
-</a>
-&nbsp;
-<a href="https://github.com/Nipunchugh10?tab=stars">
-  <img src="https://img.shields.io/github/stars/Nipunchugh10?style=for-the-badge&color=ffbe0b&labelColor=0a0a0f&label=Stars" alt="Stars" />
-</a>
+<img src="https://media1.giphy.com/media/9B7XwCQZRQfQs/giphy.gif" width="680" alt="Pixel Art Cyberpunk City" />
 
 </div>
 
@@ -87,27 +79,14 @@ interests:
 
 <div align="center">
 
-<a href="https://github.com/Nipunchugh10/AI-Driven-Analysis-of-Human-Emotions-Psychological-Health">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipunchugh10&repo=AI-Driven-Analysis-of-Human-Emotions-Psychological-Health&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=8338ec&text_color=cccccc" />
-</a>
-&nbsp;
-<a href="https://github.com/Nipunchugh10/Brain-Tumor-Detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipunchugh10&repo=Brain-Tumor-Detector&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=8338ec&text_color=cccccc" />
-</a>
+| 🧠 Project | 📋 Description | 🛠️ Tech |
+|:---|:---|:---|
+| [**AI-Driven Emotion & Psychological Health Analysis**](https://github.com/Nipunchugh10/AI-Driven-Analysis-of-Human-Emotions-Psychological-Health) | Multi-task deep learning system for real-time emotion recognition and psychological health assessment | PyTorch · NLP · Multi-Task Learning |
+| [**Brain Tumor Detector**](https://github.com/Nipunchugh10/Brain-Tumor-Detector) | ML-based MRI image classifier that detects whether a brain scan shows a tumor or healthy tissue | TensorFlow · CNN · Medical Imaging |
+| [**KNN Heart Disease Prediction**](https://github.com/Nipunchugh10/KNN-Based-Heart-Disease-Prediction-Model) | K-Nearest Neighbours model to predict heart disease risk from clinical parameters | scikit-learn · Pandas · Jupyter |
+| [**AI Resume Analyzer**](https://github.com/Nipunchugh10/ai-resume-analyzer) | Full-stack AI app that parses resumes and provides structured feedback and job-fit scoring | FastAPI · React · NLP |
+| [**Flashcard Engine**](https://github.com/Nipunchugh10/flashcard-engine) | Spaced-repetition flashcard system with AI-generated cards and adaptive scheduling | Python · React · Redis |
 
-<a href="https://github.com/Nipunchugh10/KNN-Based-Heart-Disease-Prediction-Model">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipunchugh10&repo=KNN-Based-Heart-Disease-Prediction-Model&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=8338ec&text_color=cccccc" />
-</a>
-&nbsp;
-<a href="https://github.com/Nipunchugh10/ai-resume-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipunchugh10&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=8338ec&text_color=cccccc" />
-</a>
-
-<a href="https://github.com/Nipunchugh10/flashcard-engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nipunchugh10&repo=flashcard-engine&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=8338ec&text_color=cccccc" />
-</a>
-
-<br>
 <br>
 
 [![More Projects](https://img.shields.io/badge/Explore%20More%20Projects-%E2%86%92-00e5ff?style=for-the-badge&labelColor=0a0a0f&color=8338ec)](https://github.com/Nipunchugh10?tab=repositories)
@@ -120,17 +99,19 @@ interests:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nipunchugh10&show_icons=true&hide_border=true&bg_color=0a0a0f&title_color=00e5ff&icon_color=8338ec&text_color=cccccc&ring_color=00e5ff&include_all_commits=true&count_private=true" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipunchugh10&theme=tokyonight" width="95%" />
 
-<br>
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Nipunchugh10&theme=tokyonight&hide_border=true&background=0a0a0f&ring=00e5ff&fire=ff006e&currStreakLabel=00e5ff&sideLabels=8888a0&currStreakNum=ffffff&sideNums=ffffff&dates=55556a" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipunchugh10&theme=tokyonight" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipunchugh10&theme=tokyonight" height="180" />
 
-<br>
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nipunchugh10&bg_color=0a0a0f&color=00e5ff&line=8338ec&point=ff006e&area=true&area_color=00e5ff&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nipunchugh10&theme=tokyonight" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nipunchugh10&theme=tokyonight&utcOffset=5.5" height="180" />
 
 </div>
 
