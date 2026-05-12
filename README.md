@@ -98,19 +98,34 @@ interests:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nipunchugh10&theme=tokyonight" width="95%" />
+<br>
 
-<br><br>
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/2026%20Contributions-59-58a6ff?style=for-the-badge&labelColor=0d1117" /><br><br>
+      <img src="https://img.shields.io/badge/2026%20Commits-52-58a6ff?style=for-the-badge&labelColor=0d1117" /><br><br>
+      <img src="https://img.shields.io/badge/Public%20Repos-12-58a6ff?style=for-the-badge&labelColor=0d1117" />
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/Stars%20Earned-1-ffd700?style=for-the-badge&labelColor=0d1117" /><br><br>
+      <img src="https://img.shields.io/badge/Pull%20Requests-0-3fb950?style=for-the-badge&labelColor=0d1117" /><br><br>
+      <img src="https://img.shields.io/badge/Contributed%20To-8%20Repos-bc8cff?style=for-the-badge&labelColor=0d1117" />
+    </td>
+    <td align="center" width="340">
+      <b style="color:#58a6ff">Top Languages</b><br><br>
+      <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&labelColor=0d1117&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Jupyter_Notebook-30%25-F37626?style=flat-square&labelColor=0d1117&logo=jupyter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TypeScript-12%25-3178C6?style=flat-square&labelColor=0d1117&logo=typescript&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/C++-8%25-00599C?style=flat-square&labelColor=0d1117&logo=cplusplus&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Java-5%25-ED8B00?style=flat-square&labelColor=0d1117&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nipunchugh10&theme=tokyonight" height="180" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nipunchugh10&theme=tokyonight" height="180" />
+<br>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nipunchugh10&theme=tokyonight" height="180" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nipunchugh10&theme=tokyonight&utcOffset=5.5" height="180" />
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nipunchugh10&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
 
 </div>
 
@@ -135,6 +150,8 @@ interests:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nipun%20Chugh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipunchugh)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-nipunchugh.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nipunchugh.ai)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-nipunchugh553%40gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunchugh553@gmail.com)
 
 <br>
 
