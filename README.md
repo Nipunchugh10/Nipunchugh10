@@ -2,14 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:00e5ff,100:8338ec&height=220&section=header&text=Nipun%20Chugh&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Python%20Developer%20%7C%20ML%20Engineer%20%7C%20Building%20AI-Powered%20Apps&descSize=18&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
 
-<br>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+intelligent+systems+with+deep+learning;From+emotion+analysis+to+brain+tumor+detection;Building+AI+Enabled+Production+Ready+Applications" alt="Typing SVG" />
-</a>
-
-<br>
-
 <img src="https://media1.giphy.com/media/9B7XwCQZRQfQs/giphy.gif" width="680" alt="Pixel Art Cyberpunk City" />
 
 </div>
