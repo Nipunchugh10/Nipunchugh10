@@ -11,13 +11,13 @@
 ## About Me
 
 ```yaml
-name: Nipun Chugh
-role: Full-Stack Python Developer & ML Engineer
-education: B.Tech Computer Science & Engineering
-focus: Deep Learning, NLP, Multi-Task Learning, Full-Stack AI Apps
-currently_building:
+Name: Nipun Chugh
+Role: Full-Stack Python Developer & ML Engineer
+Education: B.Tech Computer Science & Engineering
+Focus: Deep Learning, NLP, Multi-Task Learning, Full-Stack AI Apps
+Currently_Building:
   - "Pyxel - Python Visual Engine : Render Patterns based on Mathematical Logic"
-interests:
+Interests:
   - Machine Learning & Deep Learning
   - Natural Language Processing
   - Full Stack Production Ready Software Development
