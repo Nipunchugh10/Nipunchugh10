@@ -72,11 +72,11 @@ Interests:
 
 | 🧠 Project | 📋 Description | 🛠️ Tech |
 |:---|:---|:---|
+| [**Pyxel**](https://github.com/Nipunchugh10/pyxel) | Python visual engine rendering 100 stunning 2D & 3D mathematical patterns in a single Jupyter Notebook | Python · Jupyter · NumPy · Mathematics|
+| [**Flashcard Engine**](https://github.com/Nipunchugh10/Flashcard-Engine) | AI-powered flashcard engine that generates study cards from PDFs using LLMs with spaced repetition | Python · LLMs · NLP |
 | [**AI-Driven Emotion & Psychological Health Analysis**](https://github.com/Nipunchugh10/AI-Driven-Analysis-of-Human-Emotions-Psychological-Health) | Multi-task deep learning system for real-time emotion recognition and psychological health assessment | PyTorch · NLP · Multi-Task Learning |
 | [**Brain Tumor Detector**](https://github.com/Nipunchugh10/Brain-Tumor-Detector) | ML-based MRI image classifier that detects whether a brain scan shows a tumor or healthy tissue | TensorFlow · CNN · Medical Imaging |
-| [**KNN Heart Disease Prediction**](https://github.com/Nipunchugh10/KNN-Based-Heart-Disease-Prediction-Model) | K-Nearest Neighbours model to predict heart disease risk from clinical parameters | scikit-learn · Pandas · Jupyter |
-| [**AI Resume Analyzer**](https://github.com/Nipunchugh10/ai-resume-analyzer) | Full-stack AI app that parses resumes and provides structured feedback and job-fit scoring | FastAPI · React · NLP |
-| [**Flashcard Engine**](https://github.com/Nipunchugh10/flashcard-engine) | Spaced-repetition flashcard system with AI-generated cards and adaptive scheduling | Python · React · Redis |
+| [**AI Resume Analyzer**](https://github.com/Nipunchugh10/ai-resume-analyzer) | AI-powered resume analyzer with NLP skill extraction, scoring, job matching via TF-IDF, and improvement suggestions | Flask · React · NLP |
 
 <br>
 
@@ -84,7 +84,6 @@ Interests:
 
 </div>
 
----
 
 ## GitHub Stats
 
