@@ -16,7 +16,7 @@ Role: Full-Stack Python Developer & ML Engineer
 Education: B.Tech Computer Science & Engineering
 Focus: Deep Learning, NLP, Multi-Task Learning, Full-Stack AI Apps
 Currently_Building:
-  - "Pyxel - Python Visual Engine : Render Patterns based on Mathematical Logic"
+  - "AI Legal Document Intelligence Platform"
 Interests:
   - Machine Learning & Deep Learning
   - Natural Language Processing
