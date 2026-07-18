@@ -140,7 +140,7 @@ Interests:
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nipun%20Chugh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipunchugh)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-nipunchugh.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nipunchugh.ai)
+[![Instagram](https://img.shields.io/badge/Instagram-nipunchugh.ai-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nipunchugh.phil)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-nipunchugh553%40gmail.com-00e5ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nipunchugh553@gmail.com)
 
