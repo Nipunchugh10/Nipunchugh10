@@ -76,7 +76,7 @@ Interests:
 | [**Flashcard Engine**](https://github.com/Nipunchugh10/Flashcard-Engine) | AI-powered flashcard engine that generates study cards from PDFs using LLMs with spaced repetition | Python · LLMs · NLP |
 | [**AI Resume Analyzer**](https://github.com/Nipunchugh10/ai-resume-analyzer) | AI-powered resume analyzer with NLP skill extraction, scoring, job matching via TF-IDF, and improvement suggestions | Flask · React · NLP |
 | [**Pyxel**](https://github.com/Nipunchugh10/pyxel) | Python visual engine rendering 100 stunning 2D & 3D mathematical patterns in a single Jupyter Notebook | Python · Jupyter · NumPy · Mathematics |
-| [**Expense Tracker**](https://github.com/Nipunchugh10/Expense_Tracker) | Native C++ desktop app for personal finance — built with Dear ImGui & OpenGL, featuring budgeting, recurring rules, multi-currency support, and interactive analytics charts | C++ · Dear ImGui · OpenGL |
+| [**Expense Tracker Plus Plus**](https://github.com/Nipunchugh10/Expense-Tracker-Plus-Plus) | Native C++ desktop app for personal finance — built with Dear ImGui & OpenGL, featuring budgeting, recurring rules, multi-currency support, and interactive analytics charts | C++ · Dear ImGui · OpenGL |
 
 <br>
 
