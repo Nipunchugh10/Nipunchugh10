@@ -16,7 +16,7 @@ Role: Full-Stack Python Developer
 Education: B.Tech Computer Science & Engineering
 Focus: Full-Stack Development, AI-Powered Applications, System Design
 Currently_Building:
-  - "AI Legal Document Intelligence Platform (LangGraph multi-agent contract analysis)"
+  - "Nothing New - Preparing for Interviews, Learning New Tools and Working on new Ideas"
 Interests:
   - Full Stack Production-Ready Software Development
   - Building AI-Powered Applications
