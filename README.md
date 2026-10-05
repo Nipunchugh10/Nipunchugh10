@@ -16,7 +16,7 @@ Role: Full-Stack Python Developer
 Education: B.Tech Computer Science & Engineering
 Focus: Full-Stack Development, AI-Powered Applications, System Design
 Currently_Building:
-  - "Nothing New - Preparing for Interviews, Learning New Tools and Working on new Ideas"
+  - "Nothing New - Preparing for Interviews, Learning New Tools and Improving and Adding New Ideas in Prior Projects"
 Interests:
   - Full Stack Production-Ready Software Development
   - Building AI-Powered Applications
